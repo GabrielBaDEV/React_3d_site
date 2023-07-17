@@ -1,4 +1,4 @@
-export const animationStart = 0.5;
+export const animationStart = 6;
 
 export const reveal = {
     hiddenVariant: { y: 50, opacity: 0},

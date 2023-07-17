@@ -1,6 +1,7 @@
 function BoatVideo () {
     return <video 
-    className="h-100vh w-full object-cover animate-clip-from-top-animation" 
+    width="320" height="240"
+    className="" 
     autoPlay 
     muted 
     loop

@@ -27,7 +27,8 @@ function HeroText () {
         animate="revealedVariant"
         transition={{ delay: animationStart + 1.2, duration: 0.5 }}
         className="mb-30px w-1/4 <lg:w-1/3 <md:w1/2 text-14px leading-tight">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum dolorum, eius quibusdam odio deserunt laboriosam repellendus? Necessitatibus modi esse temporibus soluta eaque quo error voluptatibus sapiente itaque provident, illo ad?
+            Navegando além das expectativas: Entregas navais confiáveis e eficientes para o seu negócio. Desbravando os mares com agilidade e segurança: A solução completa em entregas navais.
+            Conectando continentes, entregando resultados: A empresa de entregas navais que impulsiona o seu crescimento global. Navegue com confiança: Entregas navais pontuais e de qualidade para o seu negócio.Transporte marítimo confiável e sustentável: A escolha inteligente para suas entregas globais."
         </motion.span>
     </motion.div>
     )
