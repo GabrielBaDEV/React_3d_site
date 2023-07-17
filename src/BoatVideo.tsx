@@ -1,12 +1,11 @@
 function BoatVideo () {
     return <video 
-    width="320" height="240"
-    className="" 
+    className="h-100vh w-full object-cover animate-clip-from-top-animation" 
     autoPlay 
     muted 
     loop
     >
-    <source src="src/assets/boat-video.mp4" type="video/mp4"/>
+    <source src="public/boat-video.mp4" type="video/mp4"/>
     </video>
 }
 
