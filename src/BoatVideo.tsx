@@ -5,7 +5,7 @@ function BoatVideo () {
     muted 
     loop
     >
-    <source src="public/static/media/boat-video.mp4" type="video/mp4"/>
+    <source src="next/static/media/boat-video.mp4" type="video/mp4"/>
     </video>
 }
 
